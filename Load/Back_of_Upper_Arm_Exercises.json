@@ -1,0 +1,24 @@
+{
+    "Main_Image": "../Images/Back_of_Upper_Arm_Exercises/Main_Image.png",
+    "Bent Over Tricep": {
+        "Exercise_Id": 1,
+        "Exercise_Image": "Images/Back_of_Upper_Arm_Exercises/Bent_Over_Tricep.gif",
+        "Exercise_Content": "Stand with your feet hip-width apart, holding a dumbbell in each hand and arms hanging at your sides. Palms should be facing in. Hinging from your hip with your knees slightly bent, lean your torso forward until your body is at a roughly 45-degree angle with the ground. Keeping your upper arms by your torso with your elbows at your sides, extend your forearms behind you until they are parallel to the floor, then release them to start for one rep. Repeat."
+      },
+    "Overhead Tricep":  {
+        "Exercise_Id": 2,
+        "Exercise_Image": "Images/Back_of_Upper_Arm_Exercises/Overhead_Tricep.gif",
+        "Exercise_Content": "Stand with your feet hip-width apart, with a dumbbell in each hand. Lift the dumbbells above your head until your arms are straight, taking care not to lock your elbows. Palms should be facing each other. (If this is too difficult, use just one dumbbell, starting by holding the dumbbell in both hands in front of your body and lifting it overhead with both hands.) Keeping your elbows and upper arms in place, slowly lower your forearms so the weights drop slightly behind your head. Extend straight overhead to complete one rep and repeat."
+      },
+    "Tricep Dip 1": {
+        "Exercise_Id": 3,
+        "Exercise_Image": "Images/Back_of_Upper_Arm_Exercises/Tricep_Dip_1.gif",
+        "Exercise_Content": "Sit on a stable chair or bench with your hands grasping the seat, positioned about shoulder-width apart and fingers facing forward. Extend your legs in front of you, placing feet flat on the floor so your knees form 90-degree angles (with knees over ankles). Slide your butt off the chair or bench so only your hands and feet are supporting you, and extend your arms almost straight. Bend your elbows and, while keeping your back close to the chair or bench, and slowly lower your body toward the floor until your elbows are at about a 90-degree angle. Press into the chair or bench and return to start to complete one rep and repeat."
+      },
+    "Tricep Dip 2": {
+        "Exercise_Id": 4,
+        "Exercise_Image": "Images/Back_of_Upper_Arm_Exercises/Tricep_Dip_2.gif",
+        "Exercise_Content": "Sit in front of a bench or the end of a couch with your legs extended out in front of you away from the furniture. Position your hands on top of the furniture behind you with your hands about shoulder-width apart and your fingertips pointing toward your body. Straighten your arms and pull your body up so it is hovering over the floor. Then engage your triceps muscles as you bend your elbows until they’re at about a 90-degree angle. Press down from your hands and straighten your arms to return to the starting position. You should be supporting most of your body’s weight in your arms to get the greatest benefit from the move. To make the exercise easier, keep your knees bent at a 90-degree angle. One set is 12 reps."
+      }
+}
+

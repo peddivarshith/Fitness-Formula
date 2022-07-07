@@ -1,0 +1,13 @@
+{
+  "Main_Image": "../Images/Lunge_Exercises/Main_Image.jpg",
+  "Lateral Lunge": {
+      "Exercise_Id": 1,
+      "Exercise_Image": "Images/Lunge_Exercises/Lateral_Lunge.gif",
+      "Exercise_Content": "Start standing with feet together. Step your right leg wide out to your right side (with control), bending the right knee as your foot touches the ground and sitting back hinging at the hips (your weight should be over your right foot). Keep chest and eyes facing forward and your left leg straight. Squeeze your inner thighs together to push off of your right foot and return to standing. Repeat on the opposite side. That’s one rep. Repeat for 12 reps. For more of a challenge, hold dumbbells in each hand."
+    },
+  "Reverse Lunge":  {
+      "Exercise_Id": 2,
+      "Exercise_Image": "Images/Lunge_Exercises/Reverse_Lunge.gif",
+      "Exercise_Content": "Start standing with feet together. Step your right foot directly behind you. Lower your hips and drop your right knee so it bends at a 90-degree angle and your right heel is lifted off the ground. (Take a big enough step back so that as your left knee bends it also forms a 90-degree angle and stays aligned directly above the left foot.) Keep your back upright and eyes looking straight ahead. Squeeze your glutes, quads, and calves as you press your left heel into the ground and bring your right leg forward to return to standing. Complete 15 reps on each side."
+    }
+}

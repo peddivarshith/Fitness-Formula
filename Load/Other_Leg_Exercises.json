@@ -1,0 +1,18 @@
+{
+  "Main_Image": "../Images/Other_Leg_Exercises/Main_Image.jpg",
+  "Calf Raises":  {
+      "Exercise_Id": 1,
+      "Exercise_Image": "Images/Other_Leg_Exercises/Calf_Raises.gif",
+      "Exercise_Content": "Stand with your feet shoulder-width apart and your toes pointing straight ahead. Use your calf muscles to lift your heels off the floor. Pause at the top and then lower to the ground. Complete 15 reps — do it slowly to keep the calf muscle fully engaged."
+    },
+  "Donkey Kicks":  {
+      "Exercise_Id": 2,
+      "Exercise_Image": "Images/Other_Leg_Exercises/Donkey_Kicks.gif",
+      "Exercise_Content": "Start on your mat with your hands and knees on the floor. Tuck your chin slightly into your chest. Keep your core tight and lift your left leg up toward the ceiling, as if you’re trying to press the bottom of your right foot into the ceiling. Your knee should maintain a 90-degree bend the whole time. Be careful not to arch your back or shift your hips as you move your leg. Hold, and then bring your leg back down to the starting position. Repeat for 12 reps and then switch sides; that’s one set."
+    },
+  "High Knees":  {
+      "Exercise_Id": 3,
+      "Exercise_Image": "Images/Other_Leg_Exercises/High_Knees.gif",
+      "Exercise_Content": "From a standing position, lift your left knee into your chest. Swiftly switch your legs so your right knee is now pulled into your chest. At a nonstop pace, keep alternating your knees and move your arms in a running motion, with your left arm lifting with your right leg and right arm lifting with your left leg."
+    }
+}

@@ -1,0 +1,4 @@
+#Ignoring Folders
+__pycache__/
+.idea/
+.streamlit/

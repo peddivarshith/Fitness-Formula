@@ -1,0 +1,31 @@
+{
+    "Main_Image": "../Images/Front_of_Upper_Arm_Exercises/Main_Image.png",
+    "Bicep Curl":  {
+        "Exercise_Id": 1,
+        "Exercise_Image": "Images/Front_of_Upper_Arm_Exercises/Bicep_Curl.gif",
+        "Exercise_Content": "Stand with your feet shoulder-width apart, holding a weight in each hand. Starting with the weights by your thighs, palms facing forward, and elbows glued to hips, lift weights toward shoulders. Release to start; that’s one rep. Repeat."
+      },
+    "Hammer Curl":  {
+        "Exercise_Id": 2,
+        "Exercise_Image": "Images/Front_of_Upper_Arm_Exercises/Hammer_Curl.gif",
+        "Exercise_Content": "Stand with your feet shoulder-width apart and your arms hanging down at your sides, holding a weight in each hand. Keeping your palms facing in toward your body and your elbows pressed to your body, lift the dumbbells to your shoulders. Release to start to complete one rep and repeat."
+      },
+    "Wide Curl":  {
+        "Exercise_Id": 3,
+        "Exercise_Image": "Images/Front_of_Upper_Arm_Exercises/Wide_Curl.gif",
+        "Exercise_Content": "Stand with your feet shoulder-width apart and your arms hanging at your sides, holding a weight in each hand. Face your palms away from your body so they’re facing the corners of the room. Keeping your elbows pressed to your body, lift the dumbbells to your shoulders. Release to start to complete one rep and repeat."
+      },
+    "Dumbbell Workout Left Arm": {
+      "Exercise_Id": 4,
+      "Exercise_Image": "Images/Front_of_Upper_Arm_Exercises/Dumbbell_Workout_Left_Arm.gif",
+      "Exercise_Content": "Sit on edge of bench with feet flat on the floor.</br>Holding dumbbell place elbow on inside of thigh, just above knee.</br>Curl dumbbell up towards your face using your Right Arm. Do not swing back as you lift the weight.</br>Slowly lower the weight and repeat for desired number of reps"
+
+    },
+    "Dumbbell Workout Right Arm": {
+      "Exercise_Id": 5,
+      "Exercise_Image": "Images/Front_of_Upper_Arm_Exercises/Dumbbell_Workout_Right_Arm.gif",
+      "Exercise_Content": "Sit on edge of bench with feet flat on the floor.</br>Holding dumbbell place elbow on inside of thigh, just above knee.</br>Curl dumbbell up towards your face using your Left Arm. Do not swing back as you lift the weight.</br>Slowly lower the weight and repeat for desired number of reps"
+
+    }
+}
+

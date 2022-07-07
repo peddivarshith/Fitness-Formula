@@ -1,0 +1,18 @@
+{
+  "Main_Image": "../Images/Chest_Exercises/Main_Image.jpg",
+  "Incline Pushup": {
+      "Exercise_Id": 1,
+      "Exercise_Image": "Images/Chest_Exercises/Incline_Pushup.gif",
+      "Exercise_Content": "Start with your hands on the wall or a countertop height surface. Walk your feet back so that your body makes roughly a 45 degree angle with the floor.\nKeep your body straight and your spine neutral, and lower your chest to the surface you’re leaning against.\nPause for a moment, then return to the start position.\nMake sure the resistance feels light enough to complete up to 20 repetitions. If you need to make it easier, step closer to your hands; to make it harder, step farther away."
+    },
+  "Push Up":  {
+      "Exercise_Id": 3,
+      "Exercise_Image": "Images/Chest_Exercises/Push_Up.gif",
+      "Exercise_Content": "Begin on your hands and knees, and step back into a high plank position. Your hands should be just wider than your shoulders, and your legs should be straight with your quads. Your hamstrings should be engaged and your spine neutral.\nKeeping your core tight, bend your elbows at a 45-degree angle to lower your chest toward the floor, maintaining a straight line from head to heel.\nAim to go as low as you can without losing the support of your core or the alignment of your spine and pelvis.\nPress your chest away from the ground until your elbows are straight.\nRepeat, completing 8–12 repetitions. Do 3 sets."
+    },
+  "Plank Jacks":  {
+      "Exercise_Id": 2,
+      "Exercise_Image": "Images/Chest_Exercises/Plank_Jack.gif",
+      "Exercise_Content": "Begin in a plank position with your wrists in line with your shoulders and your body extended in a straight line behind you. Your feet should be planted together on the floor. Jump your legs out wide, and then jump them back together at a quick pace."
+    }
+}

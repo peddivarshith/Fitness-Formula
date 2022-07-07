@@ -1,0 +1,13 @@
+{
+  "Main_Image": "../Images/Neck_Exercises/Main_Image.jpg",
+  "Neck Stretch":  {
+      "Exercise_Id": 2,
+      "Exercise_Image": "Images/Neck_Exercises/Neck_Stretch.gif",
+      "Exercise_Content": "1.Stand straight with your feet hip-width apart and tilt your head toward the shoulder.</br>2. Place your hand on your head and gently pull until you feel the stretch in your neck.</br>3. Hold for 10 to 15 seconds and repeat on the other side."
+    },
+  "Neck Extension":  {
+      "Exercise_Id": 1,
+      "Exercise_Image": "Images/Neck_Exercises/Neck_Extension.gif",
+      "Exercise_Content": "Without arching your back, slowly move your head backward so you are looking upward. Hold for five seconds. Return to starting position. This is a good exercise to do during work to prevent neck strain."
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "Main_Image": "../Images/Squats_Exercises/Main_Image.jpg",
+  "Sumo Squats":  {
+      "Exercise_Id": 3,
+      "Exercise_Image": "Images/Squats_Exercises/Sumo_Squats.gif",
+      "Exercise_Content": "Stand with your feet shoulder-width apart. Lower your hips and butt downward, hinging from your hips and bending your knees into a squat position. Keep your weight shifting back in your heels (you should feel the sensation of sitting back in that imaginary chair to engage the glute muscles, too) and your chest lifted up (as if you were sitting up straight) throughout the movement. Pause at the bottom and then drive up through the heels to stand.  Activate the quads and glutes the whole time. Complete 15 reps."
+    },
+  "Dumbbell DeadLift Squats":  {
+      "Exercise_Id": 1,
+      "Exercise_Image": "Images/Squats_Exercises/Dumbbell_Deadlift_Squat.gif",
+      "Exercise_Content": "Start by standing with your feet shoulder-width apart and hold 10- to 35-pound dumbbells in each hand in front of your thighs, with your palms facing your body (or, if you don’t have dumbbells, pick up something heavy from your home, such as bottles of laundry detergent or pet food). Hinge forward at the hips to lower your hands down the front of your legs, keeping the weights close to your body and tilting your back and upper body forward. Keep your back flat and maintain a slight bend in your knees. Squeeze through the backs of your legs and glutes as you rise into an upright position, pressing your hips forward as you return to standing (your hamstrings and glutes should be doing the work, not your back). Complete 15 reps, or 12 reps on each side if you’re doing the single-leg deadlift. (If you’re a beginner, complete the exercise without dumbbells.)"
+    },
+  "Jump Squats":  {
+      "Exercise_Id": 2,
+      "Exercise_Image": "Images/Squats_Exercises/Jump_Squats.gif",
+      "Exercise_Content": "Stand with your feet shoulder-width apart. Hinge from your hips and bend your knees to lower into a squat position, as if you’re sitting down in a chair. Keep your weight in your heels and your chest up throughout the movement. Pause at the bottom, then drive through the heels as you jump straight into the air. Land softly on your feet and immediately lower into a squat to repeat. One set is 10 reps."
+    }
+}

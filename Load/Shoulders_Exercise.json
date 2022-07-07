@@ -1,0 +1,18 @@
+{
+  "Main_Image": "../Images/Shoulders_Exercises/Main_Image.jpg",
+  "Shoulder Military Press":  {
+      "Exercise_Id": 2,
+      "Exercise_Image": "Images/Shoulders_Exercises/Shoulder_Military_Press.gif",
+      "Exercise_Content": "Stand with your feet hip-width apart, dumbbells in each hand, arms at your side. Lift the dumbbells just above your shoulders, with your palms facing forward and elbows bent at about 90-degree angles. From this starting position, extend through the elbows and press dumbbells above your head. Release to start to complete one rep and repeat."
+    },
+  "Plank Up Down":  {
+      "Exercise_Id": 1,
+      "Exercise_Image": "Images/Shoulders_Exercises/Plank_Up_Down.gif",
+      "Exercise_Content": "Get into a plank position on the floor: Your hands should be on the mat with your shoulders directly above them, legs extended straight back behind you, toes on the mat, and your body forming a straight line from top of head to heels. Lower your left elbow down to the mat and then lower your right elbow down to the mat so you’re now in a forearm plank. Keep your core engaged and your body in a straight line. Push up and straighten your right arm. Then straighten your left arm as well. Repeat for 30 seconds, switching off which arm goes first; that’s one set."
+    },
+  "Triangle Push Ups":  {
+      "Exercise_Id": 3,
+      "Exercise_Image": "Images/Shoulders_Exercises/Triangle_Push_Up.gif",
+      "Exercise_Content": "Settle into a plank position but place your hands close together under your chest and form a triangle with your index fingers and your thumbs (your thumbs should be in a straight line forming the bottom side of the triangle). Lower your chest toward the floor as if you were doing a regular push-up, keeping your elbows close to your body. Pause at the bottom and then push off the floor to return to the starting position. Modify by completing the push-up with your knees on the floor or by moving your hands slightly wider than the triangle shape. One set is 12 reps"
+    }
+}

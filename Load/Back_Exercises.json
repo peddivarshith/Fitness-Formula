@@ -1,0 +1,19 @@
+{
+  "Main_Images": "../Images/Back_Exercises/Main_Image.jpg",
+  "Superman Y": {
+      "Exercise_Id": 3,
+      "Exercise_Image": "Images/Back_Exercises/Superman_Y.gif",
+      "Exercise_Content": "Lie facedown on a mat with your arms extended in a Y position overhead and your legs are extended directly behind you on the mat. Using your back and shoulders, lift your chest and arms off the mat. Hold and then lower into the starting position. One set is 15 reps."
+    },
+  "Superman T": {
+      "Exercise_Id": 2,
+      "Exercise_Image": "Images/Back_Exercises/Superman_T.gif",
+      "Exercise_Content": "Lie facedown on a mat with your arms extended out to your sides so your body is in a T position. Using your back and shoulders, lift your chest and arms off the mat. Hold and then lower into the starting position. One set is 15 reps."
+    },
+  "Bird Dog": {
+      "Exercise_Id": 1,
+      "Exercise_Image": "Images/Back_Exercises/Bird_Dog.gif",
+      "Exercise_Content": "Position yourself on your hands and knees on your mat with hands beneath your shoulders and your knees beneath your hips. While keeping your core engaged and stable, raise your right arm straight in front of you and extend your left leg straight out behind you, reaching both away from the body at the same time so both are parallel to the floor. Hold, engaging the hamstrings and glutes; then bring your arm and leg back to center. Repeat with your left arm and right leg. Complete 15 reps on each side for one set."
+    }
+
+}
